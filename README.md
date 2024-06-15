@@ -9,3 +9,12 @@
 * 📫 How to reach me: ...
 * ❤️ I love ...
 * ⚡ Fun fact: ...
+C# TypeScript JavaScript .Net Angular Bootstrap Vue.js MicrosoftSQLServer
+Alirexaa/README.md
+Hi there 👋
+💻Tech Stack
+C# TypeScript JavaScript .Net Angular Bootstrap Vue.js MicrosoftSQLServer
+
+📊GitHub Stats :
+
+
