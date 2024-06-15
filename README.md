@@ -1,27 +1,62 @@
-### Hi there 👋
-* 👂 My name is Erfan Jalili
-* 🔭 I’m currently working on Simagar Company
-* 🌱 I’m currently learning Vue
-* 🤝 I’m looking to collaborate on Template T4 text API
-* 🤔 I’m looking for help with Template T4 text API
-* 💬 Ask me about C#
+Hi there 👋, I'm Erfan Jalili!
+About Me
+I am a passionate software developer with a strong foundation in various technologies and frameworks. With a knack for solving complex problems and a keen eye for detail, I have experience in both front-end and back-end development. My expertise spans across different domains, including web development, mobile app development, and graphic design.
 
-💻Tech Stack
-C# TypeScript JavaScript .Net Angular Bootstrap Vue.js MicrosoftSQLServer
+Technologies & Skills
+Programming Languages & Frameworks
+C#
+.NET
+ASP.NET MVC
+ASP.NET Core
+Entity Framework (EF)
+JavaScript
+Node.js
+SQL
+MongoDB
+Redis
+Design & Architecture
+Microservices
+Monolithic Architecture
+Clean Architecture
+Domain-Driven Design (DDD)
+N-Layer Design
+Repository Pattern
+Design Patterns
+CQRS
+MediatR
+Web Development
+RESTful APIs
+Web API
+Bootstrap
+CMS (WordPress)
+SEO
+Tools & Platforms
+Docker
+RabbitMQ
+Postman & Swagger
+Xamarin
+.NET MAUI
+Design & Multimedia
+Adobe Photoshop
+Adobe Illustrator
+Adobe After Effects
+Security & Testing
+Kali Linux
+Projects
+[Project Name 1]
+A brief description of what this project is about and what technologies were used.
 
-📊GitHub Stats :
+[Project Name 2]
+A brief description of what this project is about and what technologies were used.
 
-<a href="https://www.instagram.com/Lucifer113366/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+Contact Me
+Email: [Your Email]
+LinkedIn: [Your LinkedIn Profile]
+Twitter: [Your Twitter Profile]
+Portfolio: [Your Portfolio Website]
+GitHub Stats
 
+Top Languages
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
-
-
+Let's Connect!
+Feel free to reach out if you want to collaborate on any project or just want to connect.
