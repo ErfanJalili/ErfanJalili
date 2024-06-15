@@ -9,7 +9,6 @@
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <iframe src="https://lottiefiles.com/iframe/64493-code" frameborder="0" allowfullscreen></iframe>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC"/>
