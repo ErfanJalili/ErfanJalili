@@ -94,4 +94,3 @@
 Feel free to reach out if you want to collaborate on any project or just want to connect.
 
 
-[Lottie Animation](https://lottie.host/8bd332af-b2e6-4692-839c-9c19f6cc222c/oF95CqJ1po.json)
