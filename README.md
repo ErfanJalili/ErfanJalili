@@ -92,3 +92,6 @@
 ### Let's Connect!
 
 Feel free to reach out if you want to collaborate on any project or just want to connect.
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
